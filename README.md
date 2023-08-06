@@ -47,3 +47,11 @@ terminal.
 ## Clarification
 
 I'm not responsible for any damage caused by this script. Use at your own risk.
+
+![information](/github/pictures/information.png "Information")
+
+### Why?
+
+Just to learn more about Selenium and web scraping.
+
+![bored](/github/pictures/chill.gif "Bored")
