@@ -1,0 +1,4 @@
+activity: 'global' # 'following' or 'global'
+speedometer: 'fast' # how fast? (fast, medium, slow) (medium is better fr fr)
+email: '' # your anilist email address / fill this for quicker login ( you don't need to )
+password: '' # your anilist password / fill this for quicker login ( you don't need to )
